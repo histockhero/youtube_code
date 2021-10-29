@@ -5,7 +5,7 @@
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1yADJ0Js8g7_SJzmPzQRvjQisUu3BM87c?usp=sharing" title="Title">[Colab]用Colab使用股海小英雄頻道程式碼.ipynb</a></p>
 
 ##  Part2: 技術分析系列
-- ## 股市
+- ## 2.1 股市
 - ### K線 - 反轉型態判斷 Part 1：鎚子＆吊人
 > - <p>Youtube影片：<a href="https://youtu.be/ObGBH7unjSM" title="Title">【股市分析】掌握K線反轉趨勢｜強勢型態大解密｜K線應用 Part 1</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97/K%E7%B7%9A%E5%9E%8B%E6%85%8B%E5%88%86%E6%9E%90-%E9%8E%9A%E5%AD%90%26%E5%90%8A%E4%BA%BA.ipynb" title="Title">K線型態分析-鎚子&吊人.ipynb</a></p>
@@ -36,7 +36,7 @@
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97/%E5%9D%87%E7%B7%9A%E5%88%86%E6%9E%90.ipynb" title="Title">均線分析.ipynb</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1-5nlWoDmewZ065gFK0Ppc80px-EiULaV?usp=sharing">[Colab]均線分析.ipynb</a></p>
 
-- ## 選擇權
+- ## 2.2 選擇權
 - ### 選擇權 - 支撐壓力圖
 > - <p>Youtube影片：<a href="https://youtu.be/JLcopeuYCnw" title="Title">【選擇權分析】畫選擇權支撐壓力圖｜判斷選擇權買點</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97/%E8%87%BA%E6%8C%87%E9%81%B8%E6%93%87%E6%AC%8A%E6%94%AF%E6%92%90%E5%A3%93%E5%8A%9B%E5%9C%96.ipynb" title="Title">臺指選擇權支撐壓力圖.ipynb</a></p>
@@ -50,7 +50,7 @@
   
   
 ## Part 3: 下載財經資料系列
-- ## 股市
+- ## 3.1 股市
 - ### 下載台股即時資料
 > - <p>Youtube影片：<a href="https://youtu.be/axpXUzqOo9k" title="Title">【Python 爬蟲】台股即時成交行情免費下載｜盤中即時分析遠離韭菜命運！</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E7%B3%BB%E5%88%97/%E4%B8%8B%E8%BC%89%E5%8F%B0%E8%82%A1%E5%8D%B3%E6%99%82%E6%88%90%E4%BA%A4%E8%A1%8C%E6%83%85.ipynb" title="Title">下載台股即時成交行情.ipynb</a></p>
@@ -96,13 +96,13 @@
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E7%B3%BB%E5%88%97/%E4%B8%8B%E8%BC%89%E7%BE%8E%E8%82%A1%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb" title="Title">下載美股個股資料.ipynb</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1Pm0QdYKTKcbC2KTAnFxFRAQKh25Bb04b?usp=sharing" title="Title">[Colab]下載美股個股資料.ipynb</a></p>
 
-- ## 期貨
+- ## 3.2 期貨
 - ### 下載台指期每日交易行情
 > - <p>Youtube影片：<a href="https://youtu.be/q5ZDADBg-d8" title="Title">【Python 爬蟲】快速畫台指期Ｋ線圖｜每日交易行情免費下載</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E7%B3%BB%E5%88%97/%E4%B8%8B%E8%BC%89%E6%9C%9F%E8%B2%A8%E6%AF%8F%E6%97%A5%E4%BA%A4%E6%98%93%E8%A1%8C%E6%83%85.ipynb" title="Title">下載期貨每日交易行情.ipynb</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1j7jB6ritPq8tOCmzSHlIPuPEqb38NDM4?usp=sharing" title="Title">[Colab]下載期貨每日交易行情.ipynb</a></p>
   
-- ## 選擇權
+- ## 3.3 選擇權
 - ### 下載台指選每日交易行情
 > - <p>Youtube影片：<a href="https://youtu.be/jgN-mFR-12w" title="Title">【Python 爬蟲】台指選擇權每日交易行情免費下載｜一眼看出各個履約價的走勢</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E7%B3%BB%E5%88%97/%E4%B8%8B%E8%BC%89%E8%87%BA%E6%8C%87%E9%81%B8%E6%93%87%E6%AC%8A%E6%AF%8F%E6%97%A5%E4%BA%A4%E6%98%93%E8%A1%8C%E6%83%85.ipynb" title="Title">下載臺指選擇權每日交易行情.ipynb</a></p>
