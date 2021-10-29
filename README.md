@@ -4,8 +4,8 @@
 > - <p>Youtube影片：<a href="https://youtu.be/dR8pasxk9zw" title="Title">【程式新手上路】想複製別人的程式來用，修但幾咧你用過Colab了嗎？</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1yADJ0Js8g7_SJzmPzQRvjQisUu3BM87c?usp=sharing" title="Title">[Colab]用Colab使用股海小英雄頻道程式碼.ipynb</a></p>
 
-##  股市技術分析系列
-
+##  技術分析系列
+- ## 股市
 - ### K線 - 反轉型態判斷 Part 1：鎚子＆吊人
 > - <p>Youtube影片：<a href="https://youtu.be/ObGBH7unjSM" title="Title">【股市分析】掌握K線反轉趨勢｜強勢型態大解密｜K線應用 Part 1</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97/K%E7%B7%9A%E5%9E%8B%E6%85%8B%E5%88%86%E6%9E%90-%E9%8E%9A%E5%AD%90%26%E5%90%8A%E4%BA%BA.ipynb" title="Title">K線型態分析-鎚子&吊人.ipynb</a></p>
@@ -36,7 +36,7 @@
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97/%E5%9D%87%E7%B7%9A%E5%88%86%E6%9E%90.ipynb" title="Title">均線分析.ipynb</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1-5nlWoDmewZ065gFK0Ppc80px-EiULaV?usp=sharing">[Colab]均線分析.ipynb</a></p>
 
-
+- ## 選擇權
 - ### 選擇權 - 支撐壓力圖
 > - <p>Youtube影片：<a href="https://youtu.be/JLcopeuYCnw" title="Title">【選擇權分析】畫選擇權支撐壓力圖｜判斷選擇權買點</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97/%E8%87%BA%E6%8C%87%E9%81%B8%E6%93%87%E6%AC%8A%E6%94%AF%E6%92%90%E5%A3%93%E5%8A%9B%E5%9C%96.ipynb" title="Title">臺指選擇權支撐壓力圖.ipynb</a></p>
