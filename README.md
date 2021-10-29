@@ -1,10 +1,10 @@
 # 股海小英雄 Youtube頻道程式碼
-##  程式新手上路系列
+##  Part1: 程式新手上路系列
 - ### 怎麼用Colab使用股海小英雄頻道程式碼？
 > - <p>Youtube影片：<a href="https://youtu.be/dR8pasxk9zw" title="Title">【程式新手上路】想複製別人的程式來用，修但幾咧你用過Colab了嗎？</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1yADJ0Js8g7_SJzmPzQRvjQisUu3BM87c?usp=sharing" title="Title">[Colab]用Colab使用股海小英雄頻道程式碼.ipynb</a></p>
 
-##  技術分析系列
+##  Part2: 技術分析系列
 - ## 股市
 - ### K線 - 反轉型態判斷 Part 1：鎚子＆吊人
 > - <p>Youtube影片：<a href="https://youtu.be/ObGBH7unjSM" title="Title">【股市分析】掌握K線反轉趨勢｜強勢型態大解密｜K線應用 Part 1</a></p>
@@ -49,7 +49,7 @@
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1AbtMm_0b8VrufROoaL0KJc5mYRXoYe8p?usp=sharing" title="Title">[Colab]選擇權put-call未平倉比率圖.ipynb</a></p>
   
   
-## 下載股市資料系列
+## Part 3: 下載財經資料系列
 - ## 股市
 - ### 下載台股即時資料
 > - <p>Youtube影片：<a href="https://youtu.be/axpXUzqOo9k" title="Title">【Python 爬蟲】台股即時成交行情免費下載｜盤中即時分析遠離韭菜命運！</a></p>
