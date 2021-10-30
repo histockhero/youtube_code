@@ -76,7 +76,7 @@
 - ### K線與三大法人買賣超
 > - <p>Youtube影片：<a href="https://youtu.be/vsJ3aSJNWE0" title="Title">【股市分析】從Ｋ線解析籌碼面｜掌握三大法人成交的秘密</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97/K%E7%B7%9A%E5%9C%96%E8%88%87%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B3%A3%E8%B6%85.ipynb" title="Title">K線圖與三大法人買賣超.ipynb</a></p>
-> - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1XwvdJeuCpsQ6j7xOyLYnklnRFBDcV3Wi?usp=sharing" title="Title">[Colab]K線圖與三大法人買賣超.ipynb</a</p>
+> - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1XwvdJeuCpsQ6j7xOyLYnklnRFBDcV3Wi?usp=sharing" title="Title">[Colab]K線圖與三大法人買賣超.ipynb</a></p>  
   
 - ### 均線 - 10分鐘學會技術分析
 > - <p>Youtube影片：<a href="https://youtu.be/58zV2j7h3r4" title="Title">【股市分析】從均線看個股強弱｜用Python畫出黃金/死亡交叉</a></p>
