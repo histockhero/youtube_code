@@ -98,6 +98,11 @@
 
  ## Part 4: 選擇權資料下載＆技術分析
 - ## 4.1 選擇權資料下載
+- ### 下載台指選即時成交行情
+> - <p>Youtube影片：<a href="https://youtu.be/UJso4OS5w7Q" title="Title">【Python 爬蟲】台指選擇權每日交易行情免費下載｜一眼看出各個履約價的走勢</a></p>
+> - <p>程式碼：<a href="https://nbviewer.org/github/histockhero/youtube_code/blob/main/Part4_%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89%EF%BC%86%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/4.1%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89/%E4%B8%8B%E8%BC%89%E5%8F%B0%E6%8C%87%E9%81%B8%E5%8D%B3%E6%99%82%E6%88%90%E4%BA%A4%E8%A1%8C%E6%83%85.ipynb" title="Title">下載台指選即時成交行情.ipynb</a></p>
+> - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1728uZMPfDCUjuRf1k5AfbptPgDKKfn_4?usp=sharing" title="Title">[Colab]下載台指選即時成交行情.ipynb</a></p>
+  
 - ### 下載台指選每日交易行情
 > - <p>Youtube影片：<a href="https://youtu.be/jgN-mFR-12w" title="Title">【Python 爬蟲】台指選擇權每日交易行情免費下載｜一眼看出各個履約價的走勢</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84_%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E7%B3%BB%E5%88%97/%E4%B8%8B%E8%BC%89%E8%87%BA%E6%8C%87%E9%81%B8%E6%93%87%E6%AC%8A%E6%AF%8F%E6%97%A5%E4%BA%A4%E6%98%93%E8%A1%8C%E6%83%85.ipynb" title="Title">下載臺指選擇權每日交易行情.ipynb</a></p>
