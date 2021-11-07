@@ -48,8 +48,8 @@
   
 - ### 下載美股個股資料
 > - <p>Youtube影片：<a href="https://youtu.be/ZIFmDbIb-ro" title="Title">【Python 股票】美股個股資料免費下載｜用Yahoo財經套件(yfinance)取得資料｜擺脫限制</a></p>
-> - <p>程式碼：<a href="" title="Title">下載美股個股資料.ipynb</a></p>
-> - <p>Colab程式碼：<a href="https://nbviewer.org/github/histockhero/youtube_code/blob/main/Part2_%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89%EF%BC%86%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/2.1%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89/%E4%B8%8B%E8%BC%89%E7%BE%8E%E8%82%A1%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb" title="Title">[Colab]下載美股個股資料.ipynb</a></p>
+> - <p>程式碼：<a href="https://nbviewer.org/github/histockhero/youtube_code/blob/main/Part2_%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89%EF%BC%86%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/2.1%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89/%E4%B8%8B%E8%BC%89%E7%BE%8E%E8%82%A1%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb" title="Title">下載美股個股資料.ipynb</a></p>
+> - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1Pm0QdYKTKcbC2KTAnFxFRAQKh25Bb04b?usp=sharing" title="Title">[Colab]下載美股個股資料.ipynb</a></p>
 
 
 - ## 2.2 股市技術分析
