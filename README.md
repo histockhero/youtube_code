@@ -118,6 +118,12 @@
 > - <p>程式碼：<a href="https://nbviewer.org/github/histockhero/youtube_code/blob/main/Part4_%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89%EF%BC%86%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/4.1%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89/%E4%B8%8B%E8%BC%89%E6%9C%9F%E4%BA%A4%E6%89%80%20%E8%87%BA%E6%8C%87%E9%81%B8%E6%93%87%E6%AC%8APut%20Call%20Ratios%E7%B5%B1%E8%A8%88%E8%A1%A8_30%E5%A4%A9%E4%BB%A5%E4%B8%8A.ipynb" title="Title">下載期交所臺指選擇權Put Call Ratios統計表_30天以上.ipynb</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1OTrmHSUvr850-aPi2busF3JdgG9ZVp-Z?usp=sharing" title="Title">[Colab]下載期交所臺指選擇權Put Call Ratios統計表_30天以上.ipynb</a></p> 
 
+- ### 下載台指選三大法人日報
+> - <p>Youtube影片：<a href="https://youtu.be/HX_wOKKWwtE" title="Title">【Python 爬蟲】台指選三大法人日報免費下載｜決戰選擇權一眼揭曉法人佈局！</a></p>
+> - <p>程式碼：<a href="https://github.com/histockhero/youtube_code/blob/main/Part4_%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89%EF%BC%86%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/4.1%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89/%E4%B8%8B%E8%BC%89%E5%8F%B0%E6%8C%87%E9%81%B8%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E6%97%A5%E5%A0%B1.ipynb" title="Title">下載台指選三大法人日報.ipynb</a></p>
+> - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1v5yPU-Kkv5eLdx8eMKAXhpHz3q-lRt6U?usp=sharing" title="Title">[Colab]下載台指選三大法人日報.ipynb</a></p> 
+  
+  
 - ## 4.2 選擇權技術分析
 - ### 選擇權 - 支撐壓力圖
 > - <p>Youtube影片：<a href="https://youtu.be/JLcopeuYCnw" title="Title">【選擇權分析】畫選擇權支撐壓力圖｜判斷選擇權買點</a></p>
