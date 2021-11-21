@@ -124,6 +124,10 @@
 > - <p>程式碼：<a href="https://nbviewer.org/github/histockhero/youtube_code/blob/main/Part4_%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89%EF%BC%86%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/4.2%E9%81%B8%E6%93%87%E6%AC%8A%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/%E8%87%BA%E6%8C%87%E9%81%B8%E6%93%87%E6%AC%8A%E6%94%AF%E6%92%90%E5%A3%93%E5%8A%9B%E5%9C%96.ipynb" title="Title">臺指選擇權支撐壓力圖.ipynb</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1g69SZFTUc8_V2vaE75FTqfPncpR8zWVJ?usp=sharing" title="Title">[Colab]臺指選擇權支撐壓力圖.ipynb</a></p>
 
+- ### 選擇權 - 進階支撐壓力圖
+> - <p>Youtube影片：<a href="https://youtu.be/3ij1rh7Lu7c" title="Title">【選擇權分析】進階選擇權支撐壓力圖｜預測最終價格緊隨市場走勢</a></p>
+> - <p>程式碼：<a href="https://github.com/histockhero/youtube_code/blob/main/Part4_%E9%81%B8%E6%93%87%E6%AC%8A%E8%B3%87%E6%96%99%E4%B8%8B%E8%BC%89%EF%BC%86%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/4.2%E9%81%B8%E6%93%87%E6%AC%8A%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/%E5%8F%B0%E6%8C%87%E9%81%B8%E6%94%AF%E6%92%90%E5%A3%93%E5%8A%9B%E5%9C%96(%E5%90%AB%E5%B7%AE%E5%80%BC).ipynb" title="Title">台指選支撐壓力圖(含差值).ipynb</a></p>
+> - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1tby0b_oNXA6TSvbOIjX7wScvY09XaP4M?usp=sharing" title="Title">[Colab]台指選支撐壓力圖(含差值).ipynb</a></p>
   
 - ### 選擇權 - Put/Call 未平倉比率圖
 > - <p>Youtube影片：<a href="https://youtu.be/uEdQ43eY9gg" title="Title">【選擇權分析】Put/Call 未平倉比率圖｜掌握大盤多空趨勢</a></p>
